@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @adrmisty, but you can call me Adriana or Adri
-- 👀 I’m interested in machine learning, natural language processing and AI
-- 🌱 I’m currently on my last semester of my BSc in Computer Science and Software Engineering
-- 💞️ I’m an alum at the University of Oviedo (Spain), Virginia Tech (USA) and Haliç Üniversitesi (Turkey)
+- 👀 I’m interested in NLP, multilinguality, low-resource languages and morpho-syntax
+- 📖 I am a graduate student of the double Erasmus Mundus master's degree in Language and Communication Technologies, in Charles University (Czechia) and the University of the Basque Country (Spain). Currently, I am workings as a NLP intern at Vicomtech
+- 👩🏻‍🎓 I graduated in my Bsc in Computer Science and Software Engineering at the University of Oviedo (Spain)
+- 🌎 I studied abroad at the School of Computer Science of Virginia Tech (USA)
