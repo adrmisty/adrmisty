@@ -1,4 +1,4 @@
-# Adriana R. Flórez 👋
+# Adriana R. Flórez
 
 **Software Engineer | NLP Specialist | Computational Linguist**
 
