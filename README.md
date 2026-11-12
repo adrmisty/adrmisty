@@ -4,6 +4,8 @@
 
 I specialize in multilingual NLP techniques, and applied research in language technologies. I am a firm believer in tech for social good and ethical AI.
 
+<img src="nagare/nagare.svg" width="100%" alt="nagare" />
+
 ### Experience
 * **NLP Researcher Intern @ Vicomtech** (Nov 2025 – Present) | *Donostia, Spain*
   * Neural topic modeling, RAG systems, and information extraction for EU R&D (EU-Farmbook).
